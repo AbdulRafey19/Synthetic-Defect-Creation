@@ -18,3 +18,18 @@ One of the major challenge faced today is the lack of sufficient data on defects
 4. This dataset can now be used for GAN models or other AI models.
 
 ## Examples and Results
+
+All the images are of visualization from python library open3d
+
+### Ideal Pictures of DDF (a car part) and Engine point cloud
+
+#### DDF
+![image](https://github.com/user-attachments/assets/b283ff31-5672-43b6-b36d-003d26e61a2d)
+
+#### Engine
+![image](https://github.com/user-attachments/assets/f644cfbd-83f1-4e31-88ae-abbafe0c3e37)
+
+
+
+
+
